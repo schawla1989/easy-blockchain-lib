@@ -55,3 +55,5 @@ Links
 > [SDKs](https://github.com/Sphereon-SDK/easy-blockchain-sdk) &nbsp;&middot;&nbsp;
 > [Java SDK](https://github.com/Sphereon-SDK/easy-blockchain-sdk/tree/develop/java8-okhttp-gson) &nbsp;&middot;&nbsp;
 > [Sphereon.com](https://www.sphereon.com) &nbsp;&middot;&nbsp;
+
+https://codebuild.eu-west-1.amazonaws.com/badges?uuid=eyJlbmNyeXB0ZWREYXRhIjoieU4wdFE5QlVteFFYak8rVXJaT2NrbnpRci81K2gvUGN3blh1NU84bmVpdkZ3NisxSkt5akNhTmtzdkZSOG13YUpTZzhndDlTaTAzaW9tRmZlWEd4RDBFPSIsIml2UGFyYW1ldGVyU3BlYyI6ImhQejJwcC8rL2dLRGdsMm8iLCJtYXRlcmlhbFNldFNlcmlhbCI6MX0%3D&branch=master
